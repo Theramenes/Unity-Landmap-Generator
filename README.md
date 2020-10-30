@@ -1,5 +1,5 @@
 # Unity Landmap Generator
- A map generating tool. 
+ A map generating tool. Just a small project following Sebastian Lague. https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3
 
 ## What is it
 This is a tool for a sandbox game. It generate the landmap with height variation. The height is colored to indicate water(blue) and land(green and brown). Supporting LOD.
